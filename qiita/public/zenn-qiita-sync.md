@@ -1,14 +1,15 @@
 ---
 title: ZennとQiitaの記事をGitHubで同時管理
-private: false
 tags:
-  - Zenn
-  - GitHub
   - Qiita
-updated_at: '2025-08-17T17:53:06.876Z'
-id: null
+  - GitHub
+  - Zenn
+private: false
+updated_at: '2025-08-18T02:53:14+09:00'
+id: 667ce554ac35b40d122c
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # はじめに
