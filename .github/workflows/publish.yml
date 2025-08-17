@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
+      - master
+    workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,5 +28,3 @@ jobs:
         uses: C-Naoki/zenn-qiita-sync@main
         with:
           qiita-token: ${{ secrets.QIITA_TOKEN }}
-          convert-commit-message: "🔄 auto: synchronize qiita articles"
-          qiitacli-commit-message: "🔄 auto: update using qiita-cli"
