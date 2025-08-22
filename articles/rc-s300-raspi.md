@@ -3,7 +3,7 @@ title: "RC-S300をRaspberryPiを使用する"
 emoji: "💳"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["RCS300", "FeliCa", "PaSoRi", "SONY", "raspberrypi"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -12,6 +12,11 @@ published: false
 - RC-S300はスペック上ではLinuxに非対応
 
 という衝撃の事実を知ることとなりました。大学生にとって、3,000円弱とはそう簡単に諦められる金額ではなかったため、色々と作業を続け、なんとか動かすことにしました。「RC-S300をラズパイで使いたいのに...」と困っている人がほかにも存在すると信じ、記事を執筆しております。
+
+<br>
+
+![RC-S300](/images/rc-s300-raspi/rcs300.jpg =400x)
+*RC-S300（SONY公式ページより引用）*
 
 # 環境
 - Raspberry Pi 3 Model B
