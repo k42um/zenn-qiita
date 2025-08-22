@@ -1,16 +1,17 @@
 ---
 title: RC-S300をRaspberryPiを使用する
-private: false
 tags:
-  - RCS300
+  - RaspberryPi
   - FeliCa
-  - PaSoRi
-  - SONY
-  - raspberrypi
-updated_at: '2025-08-22T03:01:31.344Z'
-id: null
+  - PaSori
+  - Sony
+  - RCS300
+private: false
+updated_at: '2025-08-22T12:01:39+09:00'
+id: e19668cc08ef145e570c
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # はじめに
