@@ -1,16 +1,17 @@
 ---
 title: Geminiにはんだ付けをサポートするサイトを作ってもらった
-private: false
 tags:
-  - Gemini
-  - KiCad
   - 電子工作
-  - はんだ付け
   - Web
-updated_at: '2025-09-02T22:27:00.684Z'
-id: null
+  - はんだ付け
+  - KiCad
+  - Gemini
+private: false
+updated_at: '2025-09-03T07:27:08+09:00'
+id: b6ba34fcfdd19234ae37
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # はじめに
