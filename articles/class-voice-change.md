@@ -3,7 +3,7 @@ title: "嫌いな教授の声をずんだもんにする（Mac編）"
 emoji: "🎙️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Paravo", "BlackHole", "大学", "授業", "Mac"]
-published: false
+published: true
 ---
 
 ## はじめに
