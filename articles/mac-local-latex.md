@@ -3,7 +3,7 @@ title: "ローカルでLuaLaTeXを使いたい"
 emoji: "🗒️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["LaTeX", "MacOS", "Macbook", "大学生", "初心者"]
-published: false
+published: true
 ---
 
 ## はじめに
